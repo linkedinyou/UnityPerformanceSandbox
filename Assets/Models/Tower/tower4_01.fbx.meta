@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 1ed7e8c8c7725e54fbe8e14bb0ceda20
+timeCreated: 1456510474
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: concrete1_grp1
+    100002: decal_damage
+    100004: decal_grunge1
+    100006: decal_grunge2
+    100008: decal_labels
+    100010: decal_labels1
+    100012: decal_labels2
+    100014: decal_labels3
+    100016: decals
+    100018: main_geo
+    100020: meta2_grp2
+    100022: metal1_grp1
+    100024: polySurface1
+    100026: polySurface2
+    100028: //RootNode
+    400000: concrete1_grp1
+    400002: decal_damage
+    400004: decal_grunge1
+    400006: decal_grunge2
+    400008: decal_labels
+    400010: decal_labels1
+    400012: decal_labels2
+    400014: decal_labels3
+    400016: decals
+    400018: main_geo
+    400020: meta2_grp2
+    400022: metal1_grp1
+    400024: polySurface1
+    400026: polySurface2
+    400028: //RootNode
+    2300000: concrete1_grp1
+    2300002: decal_damage
+    2300004: decal_grunge1
+    2300006: decal_grunge2
+    2300008: decal_labels
+    2300010: decal_labels1
+    2300012: decal_labels2
+    2300014: decal_labels3
+    2300016: metal1_grp1
+    2300018: polySurface1
+    2300020: polySurface2
+    3300000: concrete1_grp1
+    3300002: decal_damage
+    3300004: decal_grunge1
+    3300006: decal_grunge2
+    3300008: decal_labels
+    3300010: decal_labels1
+    3300012: decal_labels2
+    3300014: decal_labels3
+    3300016: metal1_grp1
+    3300018: polySurface1
+    3300020: polySurface2
+    4300000: concrete1_grp1
+    4300002: metal1_grp1
+    4300004: polySurface1
+    4300006: polySurface2
+    4300008: decal_damage
+    4300010: decal_labels
+    4300012: decal_grunge1
+    4300014: decal_grunge2
+    4300016: decal_labels1
+    4300018: decal_labels2
+    4300020: decal_labels3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
